@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\infrastructure\\services\\obiletapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:infrastructure\\services\\obiletapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\queries\\journeys\\getjourneysqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\queries\\journeys\\getjourneysqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\dtos\\location\\locationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:dtos\\location\\locationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\dtos\\sessionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:dtos\\sessionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\dtos\\sessionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:dtos\\sessionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\dtos\\journey\\journeyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:dtos\\journey\\journeyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\controllers\\journeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:controllers\\journeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\settings\\obiletapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\settings\\obiletapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\queries\\sessions\\getsessionsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\queries\\sessions\\getsessionsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\queries\\sessions\\getsessionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\queries\\sessions\\getsessionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\queries\\locations\\getlocationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\queries\\locations\\getlocationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\queries\\locations\\getlocationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\queries\\locations\\getlocationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\queries\\journeys\\getjourneysqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\queries\\journeys\\getjourneysqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\queries\\journeys\\getjourneysquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\queries\\journeys\\getjourneysquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\resources\\validationmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\resources\\validationmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\interfaces\\iobiletapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\interfaces\\iobiletapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|c:\\sampleprojects\\obilet\\api\\obilet.api\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780929C0-0586-4918-8C98-11CF0BBE249C}|OBILET.API.csproj|solutionrelative:application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationResponse.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\Location\\LocationResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Location\\LocationResponse.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\Location\\LocationResponse.cs",
+              "RelativeToolTip": "DTOs\\Location\\LocationResponse.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:48:03.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JourneyResponse.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\Journey\\JourneyResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Journey\\JourneyResponse.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\Journey\\JourneyResponse.cs",
+              "RelativeToolTip": "DTOs\\Journey\\JourneyResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:47:58.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObiletApiClient.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Infrastructure\\Services\\ObiletApiClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ObiletApiClient.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Infrastructure\\Services\\ObiletApiClient.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ObiletApiClient.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwHAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:43:29.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Application\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Application\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:42:44.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetJourneysQueryHandler.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Journeys\\GetJourneysQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\Journeys\\GetJourneysQueryHandler.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Journeys\\GetJourneysQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\Journeys\\GetJourneysQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:43:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:48:15.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionRequestDto.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\SessionRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SessionRequestDto.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\SessionRequestDto.cs",
+              "RelativeToolTip": "DTOs\\SessionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:48:17.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:49:26.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionResponseDto.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\SessionResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SessionResponseDto.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\DTOs\\SessionResponseDto.cs",
+              "RelativeToolTip": "DTOs\\SessionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:48:20.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessionController.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "Controllers\\SessionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:47:53.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocationController.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Controllers\\LocationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:47:50.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JourneyController.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Controllers\\JourneyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JourneyController.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Controllers\\JourneyController.cs",
+              "RelativeToolTip": "Controllers\\JourneyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:47:45.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ObiletApiSettings.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Settings\\ObiletApiSettings.cs",
+              "RelativeDocumentMoniker": "Application\\Settings\\ObiletApiSettings.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Settings\\ObiletApiSettings.cs",
+              "RelativeToolTip": "Application\\Settings\\ObiletApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:47:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetSessionsQueryHandler.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Sessions\\GetSessionsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\Sessions\\GetSessionsQueryHandler.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Sessions\\GetSessionsQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\Sessions\\GetSessionsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:47:33.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetSessionsQuery.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Sessions\\GetSessionsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\Sessions\\GetSessionsQuery.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Sessions\\GetSessionsQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\Sessions\\GetSessionsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:47:25.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetLocationsQuery.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Locations\\GetLocationsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\Locations\\GetLocationsQuery.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Locations\\GetLocationsQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\Locations\\GetLocationsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:47:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetJourneysQuery.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Journeys\\GetJourneysQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\Journeys\\GetJourneysQuery.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Journeys\\GetJourneysQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\Journeys\\GetJourneysQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:46:50.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidationMessages.resx",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Resources\\ValidationMessages.resx",
+              "RelativeDocumentMoniker": "Application\\Resources\\ValidationMessages.resx",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Resources\\ValidationMessages.resx",
+              "RelativeToolTip": "Application\\Resources\\ValidationMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-19T07:45:19.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetJourneysQueryValidator.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Journeys\\GetJourneysQueryValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\Journeys\\GetJourneysQueryValidator.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Journeys\\GetJourneysQueryValidator.cs",
+              "RelativeToolTip": "Application\\Queries\\Journeys\\GetJourneysQueryValidator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:44:45.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetLocationsQueryHandler.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Locations\\GetLocationsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\Locations\\GetLocationsQueryHandler.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Queries\\Locations\\GetLocationsQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\Locations\\GetLocationsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:44:17.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IObiletApiClient.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Interfaces\\IObiletApiClient.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IObiletApiClient.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Interfaces\\IObiletApiClient.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IObiletApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:42:39.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\SampleProjects\\OBILET\\API\\OBILET.API\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:42:34.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

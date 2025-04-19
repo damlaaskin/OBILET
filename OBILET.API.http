@@ -1,0 +1,6 @@
+@OBILET.API_HostAddress = http://localhost:5185
+
+GET {{OBILET.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

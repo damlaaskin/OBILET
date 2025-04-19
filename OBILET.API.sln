@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBILET.API", "OBILET.API.csproj", "{780929C0-0586-4918-8C98-11CF0BBE249C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBILET.TESTS", "..\OBILET.TESTS\OBILET.TESTS.csproj", "{2CA4AFCB-3737-46D1-B931-6AB27EA57520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780929C0-0586-4918-8C98-11CF0BBE249C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780929C0-0586-4918-8C98-11CF0BBE249C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780929C0-0586-4918-8C98-11CF0BBE249C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780929C0-0586-4918-8C98-11CF0BBE249C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA4AFCB-3737-46D1-B931-6AB27EA57520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA4AFCB-3737-46D1-B931-6AB27EA57520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA4AFCB-3737-46D1-B931-6AB27EA57520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA4AFCB-3737-46D1-B931-6AB27EA57520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7FC2C8B-2A58-457D-A9BD-A1613C7FCA0C}
+	EndGlobalSection
+EndGlobal
